@@ -1,5 +1,5 @@
 # tank
-Project Tank is a Fully Enclosed FDM Printer constructed from a combination of 3030 and 2020 extrusions.
+Project Tank is a Fully Enclosed FDM Printer constructed from a combination of mostly 3030 and minimal 2020 extrusions.
 
 The goals of this project are as follows:
  - Fully Enclosed Design
@@ -7,8 +7,11 @@ The goals of this project are as follows:
  - Direct Drive Extruder(s)
  - New, Innovative Belt Path
  - Moving Gantry, not bed
+ - MGN12 Rails (Y and Z), MGN9 Rails (X)
  - Minimal Printed Parts
  - 9mm Belts on XY, 1204 Ballscrews on Z
  - Servo Capability (future development after first release)
  - 32 bit controller standard
  - 24V Power (48V for servos) Standard
+
+Edrawings will be posted as the design progresses, If you would like to follow along.
