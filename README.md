@@ -11,6 +11,7 @@ The goals of this project are as follows:
  - Moving Gantry, not bed
  - MGN12 Rails (Y and Z), MGN9 Rails (X)
  - Minimal Printed Parts
+ - Combination of CF Nylon and ABS Printed Parts (Primary Nylon, Secondary ABS)
  - 9mm Belts on XY, 1204 Ballscrews on Z
  - Servo Capability (future development after first release)
  - 32 bit controller standard
