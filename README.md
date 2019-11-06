@@ -1,11 +1,11 @@
 # tank
-Project Tank is a Fully Enclosed FDM Printer constructed from a combination of mostly 3030 and minimal 2020 extrusions.
+Project Tank is a Fully Enclosed FDM Printer constructed from a combination of 3030 extrusions.
 
 This can be considered a fork of both the VORON2 and VORON24 Projects, with a fresh set of eyes trying some new things.
 
 The goals of this project are as follows:
  - Fully Enclosed Design
- - Build Volumes of 300^3 to 500^3 and beyond
+ - Build Volumes of ~300^3 to 500^3 and beyond (use of whole plate available)
  - Direct Drive Extruder(s)
  - New, Innovative Belt Path, Self Squaring Axis'
  - Moving Gantry, not bed
