@@ -10,6 +10,8 @@ The goals of this project are as follows:
  - New, Innovative Belt Path, Self Squaring Axis'
  - Moving Gantry, not bed
  - MGN12 Rails (X, Y, Z)
+ - Heavy Duty Bearings
+ - Moons Stepper Motors
  - Minimal Printed Parts
  - Combination of CF Nylon and ABS Printed Parts (Primary Nylon, Secondary ABS)
  - 9mm Belts on XY, 1204 Ballscrews on Z
