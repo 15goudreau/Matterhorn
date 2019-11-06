@@ -7,14 +7,15 @@ The goals of this project are as follows:
  - Fully Enclosed Design
  - Build Volumes of 300^3 to 500^3 and beyond
  - Direct Drive Extruder(s)
- - New, Innovative Belt Path
+ - New, Innovative Belt Path, Self Squaring Axis'
  - Moving Gantry, not bed
- - MGN12 Rails (Y and Z), MGN9 Rails (X)
+ - MGN12 Rails (X, Y, Z)
  - Minimal Printed Parts
  - Combination of CF Nylon and ABS Printed Parts (Primary Nylon, Secondary ABS)
  - 9mm Belts on XY, 1204 Ballscrews on Z
- - Servo Capability (future development after first release)
  - 32 bit controller standard
- - 24V Power (48V for servos) Standard
+ - 24V Power Standard
 
 Edrawings will be posted as the design progresses, If you would like to follow along.
+
+Our discord server can be found here: https://discord.gg/MzTR3zE
