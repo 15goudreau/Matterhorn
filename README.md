@@ -15,7 +15,7 @@ The goals of this project are as follows:
  - Heavy Duty Bearings
  - Moons Stepper Motors
  - Minimal Printed Parts
- - Combination of CF Nylon and ABS Printed Parts (Primary Nylon, Secondary ABS), small builds may be able to built entirely out of ABS, testing will have to be performed
+ - Combination of GF30 Nylon and ABS Printed Parts (Primary Nylon, Secondary ABS), small builds may be able to built entirely out of ABS, testing will have to be performed
  - 9mm Belts on XY and Z Stepdown, 1204 Ballscrews on Z to lift gantry
  - 32 bit controller standard
  - 24V Power Standard
