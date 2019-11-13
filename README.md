@@ -9,14 +9,14 @@ The goals of this project are as follows:
  - Fully Enclosed Design
  - Build Volumes of ~300^3 to 500^3 and beyond (use of whole plate available) + additional area to purge and wipe
  - Direct Drive Extruder(s)
- - New, Innovative Belt Path, Self Squaring Axis'
+ - New, Cartesian Style and Innovative Belt Path, Self Squaring Y and Z Axis'
  - Moving Gantry, not bed
  - MGN12 Rails (X, Y, Z)
  - Heavy Duty Bearings
  - Moons Stepper Motors
  - Minimal Printed Parts
  - Combination of GF30 Nylon and ABS Printed Parts (Primary Nylon, Secondary ABS), small builds may be able to built entirely out of ABS, testing will have to be performed
- - 9mm Belts on XY and Z Stepdown, 1204 Ballscrews on Z to lift gantry
+ - 9mm Belts on XY, 1204 Ballscrews on Z to lift gantry
  - 32 bit controller standard
  - 24V Power Standard
 
