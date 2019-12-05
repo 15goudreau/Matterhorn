@@ -1,5 +1,5 @@
-# tank
-Project Tank is a Large Format, Fully Enclosed FDM Printer.
+# Matterhorn
+Project Matterhorn is a Large Format, Fully Enclosed FDM Printer.
 
 This can be considered a fork of both the VORON2 and VORON24 Projects, with a fresh set of eyes trying some new things. It is not in any way affiliated with VORON Design and is entirely a scratch design from a few of its engineering members.
 
